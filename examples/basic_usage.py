@@ -13,7 +13,7 @@ import numpy as np
 
 
 def main() -> None:
-      """Run basic example of VQE for pharmaceutical applications."""
+    """Run basic example of VQE for pharmaceutical applications."""
 
     print("=" * 70)
     print("Quantum VQE for Pharmaceutical Drug Discovery")
@@ -72,5 +72,5 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-      main()
+    main()
   
